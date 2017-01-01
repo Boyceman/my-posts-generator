@@ -1,0 +1,12 @@
+audio{
+  vertical-align:middle;
+}
+audio + *{
+  min-width:200px;
+  padding:0 20px;
+  background: rgba(238, 238, 238, .3);
+  display:inline-block;
+  height:32px;
+  line-height:32px;
+  vertical-align:middle;
+}
